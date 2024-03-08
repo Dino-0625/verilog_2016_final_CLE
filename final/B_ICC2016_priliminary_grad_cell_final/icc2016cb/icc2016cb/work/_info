@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb
+vCLE
+Z1 !s110 1703507599
+!i10b 1
+!s100 OheBG0b_=aC7T<RmiW4BI0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IY8C?0^ac7fDPjQGc?k5OJ1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1703507596
+8C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/CLE.v
+FC:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/CLE.v
+!i122 202
+L0 2 250
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1703507599.000000
+!s107 C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/CLE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/CLE.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@c@l@e
+vrom_128x8
+R1
+!i10b 1
+!s100 Nca?F3:aR_9miYNbgLJHB0
+R2
+IWe2S;^e4Z3BA<C4LD;9D31
+R3
+R0
+Z8 w1460086534
+8./rom_128x8_a.v
+F./rom_128x8_a.v
+!i122 204
+L0 57 273
+R4
+r1
+!s85 0
+31
+R5
+!s107 ./sram_1024x8.v|./rom_128x8_a.v|C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/testfixture_a.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/testfixture_a.v|
+!i113 1
+R6
+R7
+vsram_1024x8
+R1
+!i10b 1
+!s100 j`5UBk6iVi46hz`z_AL662
+R2
+IkMUM`F_SeiV5@CcFOki?e2
+R3
+R0
+R8
+8./sram_1024x8.v
+F./sram_1024x8.v
+!i122 204
+L0 55 433
+R4
+r1
+!s85 0
+31
+R5
+Z10 !s107 ./sram_1024x8.v|./rom_128x8_a.v|C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/testfixture_a.v|
+R9
+!i113 1
+R6
+R7
+vtest
+R1
+!i10b 1
+!s100 dMYU6A?nGKUFGaeGFDgoi3
+R2
+IWJgf^8R:G3?<JXnN]2M5J2
+R3
+R0
+w1703425578
+8C:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/testfixture_a.v
+FC:/verilog/2023_12_24_2016_final_contest/final/B_ICC2016_priliminary_grad_cell_final/icc2016cb/icc2016cb/testfixture_a.v
+!i122 204
+L0 9 196
+R4
+r1
+!s85 0
+31
+R5
+R10
+R9
+!i113 1
+R6
+R7
